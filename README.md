@@ -197,8 +197,6 @@ SRWCB_English_v1.0_Disc2_MixedCase.xdelta
 ========================================================================
 
 Special Thanks to the RetroGameTalk community
-English karaoke wording adapted from the Game Translate V35-R88 patch and
-edited against the original Japanese Disc 2 lyrics
 
 Regards,
 Retch
