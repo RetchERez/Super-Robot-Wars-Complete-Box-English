@@ -57,7 +57,7 @@ Disc 2 is History of Super Robot Wars, a companion disc
 - Virtual Stadium, a multiplayer mode where you battle your own units against a
   friend or the computer
 - Voice Edit, to arrange and play back character voice lines
-- Sound test, music player, karaoke and a demo and movie selection
+- Sound test, music player, karaoke with English lyrics, and a demo and movie selection
 
 ========================================================================
 
@@ -129,6 +129,9 @@ Disc 2
 - English karaoke lyrics for the 14 menu songs and nine additional tracks
   stored in the original archive, covering 132 lyric screens in both fonts
 - Clean, readable menu headings in both fonts
+- 2D Gallery design sheets labelled with every character and robot name
+- Full staff roll in English
+- The 3rd Super Robot Wars heading and other history graphics in English
 
 ========================================================================
 
@@ -137,7 +140,8 @@ KNOWN ISSUES
   games and still show Japanese
 - The Japanese logo drawn into the end of the Disc 1 opening movie remains
 - The Voice Edit name tabs on Disc 2 still show Japanese syllable groups
-- A few small Disc 2 labels and the name entry keyboard remain in Japanese
+- The staff introduction cards in the Disc 2 history section remain in Japanese
+- The name entry keyboard stays Japanese so names can still be typed
 - If you find anything else, please report it
 
 REPORTING A PROBLEM
@@ -177,22 +181,22 @@ Clean Japanese Disc 2 Track 1 BIN
   SHA-256  db3b2f901cf98df9a12bfa0771a6eb0b4e4207a9bacb43e020a4e5836d7e7640
 
 Patched CAPS Disc 2 Track 1 BIN
-  Size     645452304 bytes
-  CRC32    EA79CD85
-  SHA-256  be1df32a734f5f1c7abc4097e86c8d3eb12eaf2f48c363d7a6d982914642ffd5
+  Size     656868912 bytes
+  CRC32    D4D53513
+  SHA-256  02150ee7427bbde3307a0a3e7faa0e8bba006e72187dd2122fb6b351cff85865
 
 SRWCB_English_v1.0_Disc2_CAPS.xdelta
-  CRC32    877F9B68
-  SHA-256  9214e4d3698d11f724ab7c4a36037c09f8067e8bfd3ba582446fbd91e60602f4
+  CRC32    DA21F712
+  SHA-256  3c1700fb2a977ba28e01d0ba32bb6cff34c0eb564dbf8a7b0590bf2ae86b3472
 
 Patched Mixed Case Disc 2 Track 1 BIN
-  Size     645005424 bytes
-  CRC32    E6097BEC
-  SHA-256  e3610505612ab97a7cf8a1dad046351fbe7430f632daeb780a1d724276028eca
+  Size     656419680 bytes
+  CRC32    58DC066A
+  SHA-256  f3d614813c89fd287d89620e8d1513fdcfd46894b18da249b1d15dc560754726
 
 SRWCB_English_v1.0_Disc2_MixedCase.xdelta
-  CRC32    4A824BE3
-  SHA-256  58a02734aa796422cf2935b2f922243e575787181b17952cfd4389fbb260090b
+  CRC32    1D9E0770
+  SHA-256  1c7647ae0bc4f85f0de1feea7f889127cb5fa21567f37a111f9ab72a66c23049
 
 ========================================================================
 
