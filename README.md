@@ -126,12 +126,13 @@ Disc 2
 - Character and robot encyclopedia, voice actor lists and La Gias essays translated
 - Virtual Stadium setup, options and battles in English
 - Sound test and music titles in English
+- English karaoke lyrics for the 14 menu songs and nine additional tracks
+  stored in the original archive, covering 132 lyric screens in both fonts
 - Clean, readable menu headings in both fonts
 
 ========================================================================
 
 KNOWN ISSUES
-- Karaoke lyrics on Disc 2 remain in Japanese, the song titles are in English
 - The gameplay demo movies on Disc 2 are recordings of the original Japanese
   games and still show Japanese
 - The Japanese logo drawn into the end of the Disc 1 opening movie remains
@@ -176,26 +177,28 @@ Clean Japanese Disc 2 Track 1 BIN
   SHA-256  db3b2f901cf98df9a12bfa0771a6eb0b4e4207a9bacb43e020a4e5836d7e7640
 
 Patched CAPS Disc 2 Track 1 BIN
-  Size     645398208 bytes
-  CRC32    4FBF70B1
-  SHA-256  df5dc687e2ee2d3f28de711b3772bcdf106bb7794d098a38e4edcb186e7e3007
+  Size     645452304 bytes
+  CRC32    EA79CD85
+  SHA-256  be1df32a734f5f1c7abc4097e86c8d3eb12eaf2f48c363d7a6d982914642ffd5
 
 SRWCB_English_v1.0_Disc2_CAPS.xdelta
-  CRC32    FC59F070
-  SHA-256  04c977bba7cd1ec162b0d5964bc0657cc702c263d5bae7c002d2dae1276cb15d
+  CRC32    877F9B68
+  SHA-256  9214e4d3698d11f724ab7c4a36037c09f8067e8bfd3ba582446fbd91e60602f4
 
 Patched Mixed Case Disc 2 Track 1 BIN
-  Size     644951328 bytes
-  CRC32    C74CD533
-  SHA-256  886392612a538a86d2c1749a638e8159b6c7687b395e327322c07248558051fe
+  Size     645005424 bytes
+  CRC32    E6097BEC
+  SHA-256  e3610505612ab97a7cf8a1dad046351fbe7430f632daeb780a1d724276028eca
 
 SRWCB_English_v1.0_Disc2_MixedCase.xdelta
-  CRC32    F25CBFA3
-  SHA-256  e78e28f990bdaed847e803eedfc9b328f7384bee637bcb80a1edb4d79d1df466
+  CRC32    4A824BE3
+  SHA-256  58a02734aa796422cf2935b2f922243e575787181b17952cfd4389fbb260090b
 
 ========================================================================
 
 Special Thanks to the RetroGameTalk community
+English karaoke wording adapted from the Game Translate V35-R88 patch and
+edited against the original Japanese Disc 2 lyrics
 
 Regards,
 Retch
